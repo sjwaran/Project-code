@@ -27,5 +27,10 @@ public class Qus4 {
 			String text = year1.getText();
 			System.out.println(text);
 		}
+//		for (int i = 0; i <list.size() ; i++) {
+//			WebElement year1 = list.get(i);
+//			String text = year1.getText();
+//			System.out.println(text);
+//		}
 	}
 }
